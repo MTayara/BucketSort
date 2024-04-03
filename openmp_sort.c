@@ -3,9 +3,9 @@
 #include <omp.h>
 #include <time.h>
 
-#define TOTAL_NUMBERS 10000
+#define TOTAL_NUMBERS 100000
 #define NUMBER_OF_BUCKETS 10
-#define HIGHEST_POSSIBLE_NUMBER 1000
+#define HIGHEST_POSSIBLE_NUMBER 10000
 
 
 
