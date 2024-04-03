@@ -3,9 +3,9 @@
 #include <pthread.h>
 #include <time.h>
 
-#define ARRAY_SIZE 10000
+#define ARRAY_SIZE 100000
 #define BUCKET_COUNT 10
-#define MAX_VALUE 1000
+#define MAX_VALUE 10000
 #define THREAD_COUNT BUCKET_COUNT
 
 
